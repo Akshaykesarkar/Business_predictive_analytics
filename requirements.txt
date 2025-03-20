@@ -14,3 +14,4 @@ langchain
 langchain-experimental
 langchain-community
 groq
+xgboost
