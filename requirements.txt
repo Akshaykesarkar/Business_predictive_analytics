@@ -1,0 +1,16 @@
+numpy
+pandas
+seaborn
+matplotlib
+plotly
+streamlit
+streamlit-lottie
+streamlit-option-menu
+streamlit-chat
+torch
+scikit-learn
+dotenv
+langchain
+langchain-experimental
+langchain-community
+groq
